@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanbhutto" alt="zeeshanbhutto" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning,Analytical skills**
+- 🔭 I’m currently working on *Ai / ML*,*Generative Ai*, *Ai Automation*
 
 - 🌱 I’m currently learning **Deep Learning, Ai, Neural networks**
 
-- 👯 I’m looking to collaborate on **Business Analyst**
+- 👯 I’m looking to collaborate on **Ai Engineer role**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Ai Resarch**
 
-- 💬 Ask me about **Power Bi, Business Analyst**
+- 💬 Ask me about **Generative Ai,AI Automation**
 
 - 📫 How to reach me **zeeshanbhutto89@gmail.com**
 
